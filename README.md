@@ -9,4 +9,4 @@ DBNAME=slim
 DBUSER=slim
 DBPASSWD=test123`
 
-**Phpmyadmin**: http://192.168.33.10/phpmyadmin<br /><br /
+**Phpmyadmin**: http://192.168.33.10/phpmyadmin<br />
