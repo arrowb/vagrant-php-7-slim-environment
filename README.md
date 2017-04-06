@@ -1,6 +1,10 @@
 # vagrant-php-7-slim-environment
 Vagrant PHP7, nginx, Mysql, phpMyAdmin composer - Slim 3 environment
 
+<br />
+
+OS: **Ubuntu xenial64**
+
 **Slim framework**: http://192.168.33.10<br />
 <br />
 **Mysql**:
