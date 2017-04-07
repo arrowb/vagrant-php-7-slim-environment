@@ -20,6 +20,4 @@ DBPASSWD=test123`
 1. Virtualbox installation https://www.virtualbox.org/wiki/Downloads
 2. Vagrant installation https://www.vagrantup.com/docs/installation/
 3. **Create folder app** 
-    app -> create
-    sh   
 4. vagrant up
