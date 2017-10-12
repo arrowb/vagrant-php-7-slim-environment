@@ -1,5 +1,5 @@
 # Vagrant development environment for Slim3.
-Vagrant PHP7, nginx, Mysql, phpMyAdmin composer - Slim 3 environment
+Vagrant PHP 7.1, nginx, Mysql, phpMyAdmin composer - Slim 3 environment
 <br />
 
 OS: **Ubuntu xenial64**
