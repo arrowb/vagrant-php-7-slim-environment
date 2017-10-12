@@ -2,5 +2,5 @@
 
 echo "======================================================="
 echo "SLIM INSTALL"
-composer create-project --no-interaction --stability=dev akrabat/slim3-skeleton /host
+composer create-project --no-interaction --stability=dev akrabat/slim3-skeleton /host/slim
 echo "======================================================="

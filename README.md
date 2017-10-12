@@ -1,4 +1,4 @@
-# vagrant-php-7-slim-environment
+# Vagrant development environment for Slim3.
 Vagrant PHP7, nginx, Mysql, phpMyAdmin composer - Slim 3 environment
 <br />
 
